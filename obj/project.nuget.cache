@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "snoWunFuU+IqP1PGwBB2Gsq/A2pYk9nSvHpRei5I93knzxdFq0QQUOhwmFN3VBM9ATRBJALXGKg2EAMDahlT2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kanika\\source\\repos\\DockerSampleApp\\DockerSampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kanika\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
